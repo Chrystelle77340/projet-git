@@ -1,0 +1,4 @@
+# Le dossier video ne doit pas être versionné sur GitHub
+/assets/video
+# Le fichier contact.html ne doit pas être versionné sur GitHub
+/contact.html
